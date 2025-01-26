@@ -62,6 +62,7 @@ echo "Last Command Status -> $?"
 echo "Last Argument       -> $_"
 echo "Number of Arguments -> $#"
 
+
 # Goodbye message
 echo
 echo "Thank you, $fullname! Have a great day using Bash scripting!"
